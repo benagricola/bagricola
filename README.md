@@ -19,6 +19,6 @@ If I can't ride a bike I'm happy enough outdoors doing whatever (🏔and 🌲), 
 
 ---
 
-My Current Bike | My Current Face (on left!)
+My Current Bike | My Current Face <sub><sup>(on left 😜)</sup></sub>
 --------------- | --------------------------
-<img height="500" src="https://raw.githubusercontent.com/benagricola/benagricola/master/images/sur-ron.jpg" alt="Photo of a black and green modified Sur-Ron electric motocross bike leaning on a shed" />|<img height="500" src="https://raw.githubusercontent.com/benagricola/benagricola/master/images/me.jpg" alt="Photo of Ben Agricola with 3 friends on Ben Lomond Hike, Queenstown, NZ" />
+<img width="400px" src="https://raw.githubusercontent.com/benagricola/benagricola/master/images/sur-ron.jpg" alt="Photo of a black and green modified Sur-Ron electric motocross bike leaning on a shed" />|<img width="400px" src="https://raw.githubusercontent.com/benagricola/benagricola/master/images/me.jpg" alt="Photo of Ben Agricola with 3 friends on Ben Lomond Hike, Queenstown, NZ" />
