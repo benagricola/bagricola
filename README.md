@@ -1,10 +1,10 @@
 # Ben Agricola
 
-**Hi!** 👋 I'm Ben - a mostly-self-taught tinkerer and Software Engineering grad (back in 2008 - time flies 🤯), and I now spend more time on the infrastructure, hosting, (dev)-ops and ☁️ side of things.
+**Hi!** 👋 I'm Ben - a mostly-self-taught tinkerer and Software Engineering grad (back in 2008 - time flies 🤯), and I now spend more time on infrastructure automation, hosting, (dev)-ops and ☁️ side of things.
 
-I've spent 10 years in the field professionally and had my first taste of software development and networking around 20 years ago.  
+I've spent 11 years in the field professionally and had my first experiences of software development and networking around 20 years ago.  
 
-I dabble in Python, Golang, Typescript, Lua, bits and pieces of C and various other  languages and Infrastructure-as-Code tools (Terraform, k8s, CF/CDK etc). I have languages that I favour for various things, but I can generally look at code written in anything upwards of Assembly and work out what's going on.
+I dabble in Golang, Typescript, Python, Lua, bits and pieces of C and various other languages and Infrastructure-as-Code tools (Terraform, Crossplane, k8s, CF/CDK etc). I have languages that I favour for various things, but I can generally look at code written in anything upwards of Assembly and work out what's going on.
 
 I use a lot of open-source software at `$work`, and I like to contribute back to the projects that I use - as much on a personal level as a professional one. I'm not heavily involved with any in particular, but I pop up here and there with a PR or two when I find an annoyance that I think might affect others <sub><sup>(the Boy Scout Rule)</sup></sub> 👍
 
